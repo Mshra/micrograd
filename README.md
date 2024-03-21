@@ -1,6 +1,7 @@
 # **Micrograd**
 
 this repo is based on the tutorial by [Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&t=6109s)
+
 **What I learnt about:**
 - defining what is a neuron in the context of deep learning
 - defining a Value datatype
